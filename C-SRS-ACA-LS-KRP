@@ -27,6 +27,20 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
+<name>[COLOR white][B]Bruce Lee: A Lenda (2008-2009)[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/mello506/A1A-ACA-LS-KRP/main/C3-SRS-Bruce.Lee.A.Lenda-KRP</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/8iJfbo6gHzGAeSkuVKuqvJmz6DX.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/m8VBwXWXgAbD4Ge6p187H1Mfs2U.jpg</fanart>
+<info>Assista aqui os episodios da série Bruce Lee: A Lenda. 
+[COLOR orange][B]AÇAO[/B][/COLOR]
+[COLOR orange][B]05 TEMPS - 50 EPs[/B][/COLOR]
+[COLOR orange][B]ANO - 2008 a 2009 [/B][/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
 <name>[COLOR white][B]A Super Máquina (1982-1985)[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/A1A-ACA-LS-KRP/main/C1-SRS-A.Super.Maquina-KRP</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/egcnrKBq0N3VQMuOY52BZCHU8YG.jpg</thumbnail>
