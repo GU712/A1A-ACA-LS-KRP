@@ -1,0 +1,112 @@
+<item>
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>
+<link>NOLINK</link>	
+<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
+<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
+<info>[B]FAÇA SUA ESCOLHA E DIVIRTA-SE[/B]</info>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Estação 19[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=0StAYVc9Gnk</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/pYWGrFacqPLjo2Kdt5p0XrKsCay.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/7Cvv4KdtI00xNti4Dm4RVJDL9qU.jpg</fanart>
+<info>Assista ao trailer</info>
+<genre>AÇÃO</genre> 
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+item>
+<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Estação 19 (2018) - FHD DUAL[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNET></link>
+<thumbnail><CAPADASERIE></thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/7Cvv4KdtI00xNti4Dm4RVJDL9qU.jpg</fanart>
+<info>O dia a dia, os relacionamentos e o exaustivo trabalho de um grupo muito unido de bombeiros de Seattle.</info>
+<genre>AÇÃO</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Estação 19 (2018) - T01 - HD DUAL[/B][/COLOR]</title>
+<link>NOLINK$$lsname=[COLOR orange][B] Temporada 01 - 10 EPs[/B][/COLOR]</link>	
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cf257c37aced67838e090d956b826fab7fe12ffd$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Preso [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c485cc9fb6ef5b7c62d504858157d99fe3416acb$$lsname=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Invisivel Para Mim [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e2a09445e19b4818b04cef53242fa199635bb8f0$$lsname=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Contenha A Chama [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e24df5e0ffa34f58271e0d327ad87f47feca16cd$$lsname=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Reacendeu [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b470fdbffbf9b1abbaf8ccee5b924d9f17b15a7e$$lsname=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]Choque Ao Sistema [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c8aac42ff2560dd63b88bab2311d78dd57219a21$$lsname=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]Mais Forte Juntos [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:412976a929673dfcde882e6f3a3cfefa3f0f5b0d$$lsname=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]Deixe Queimar [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:69b31979489ff640491fedbb1e743d2c405c4c79$$lsname=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Todo Segundo Conta [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dcf17baaf53aa3805a44b38e1eaa70aad33d036e$$lsname=[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white]Caixa Quente [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4abae18a40905848bf5abc6f4270f823a215bc3f$$lsname=[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR white]Nao Seu Heroi [/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/original/1By6FyWAqDaizq1HMMg5rS8wEqV.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/7Cvv4KdtI00xNti4Dm4RVJDL9qU.jpg</fanart>
+<info>O dia a dia, os relacionamentos e o exaustivo trabalho de um grupo muito unido de bombeiros de Seattle.</info>
+<genre>AÇÃO</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Estação 19 (2018) - T01 - HD DUAL[/B][/COLOR]</title>
+
+<link>NOLINK$$lsname=[COLOR orange][B] Temporada 01 - 10 EPs[/B][/COLOR]</link>		
+
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/1-ACA/Estasao.19/T01/LS-T01E01.mkv$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Preso [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/1-ACA/Estasao.19/T01/LS-T01E02.mkv$$lsname=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Invisivel Para Mim [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/1-ACA/Estasao.19/T01/LS-T01E03.mkv$$lsname=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Contenha A Chama [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/1-ACA/Estasao.19/T01/LS-T01E04.mkv$$lsname=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Reacendeu [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/1-ACA/Estasao.19/T01/LS-T01E05.mkv$$lsname=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]Choque Ao Sistema [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/1-ACA/Estasao.19/T01/LS-T01E06.mkv$$lsname=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]Mais Forte Juntos [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/1-ACA/Estasao.19/T01/LS-T01E07.mkv$$lsname=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]Deixe Queimar [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/1-ACA/Estasao.19/T01/LS-T01E08.mkv$$lsname=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Todo Segundo Conta [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/1-ACA/Estasao.19/T01/LS-T01E09.mkv$$lsname=[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white]Caixa Quente [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/1-ACA/Estasao.19/T01/LS-T01E10.mkv$$lsname=[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR white]Nao Seu Heroi [/B][/COLOR]</link>
+		
+<thumbnail>https://www.themoviedb.org/t/p/original/1By6FyWAqDaizq1HMMg5rS8wEqV.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/7Cvv4KdtI00xNti4Dm4RVJDL9qU.jpg</fanart>
+<info>O dia a dia, os relacionamentos e o exaustivo trabalho de um grupo muito unido de bombeiros de Seattle.</info>
+<genre>AÇÃO</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Estação 19 (2018) - T02 - FHD DUAL[/B][/COLOR]</title>
+
+<link>NOLINK$$lsname=[COLOR orange][B] Temporada 02 - 00 EPs[/B][/COLOR]</link>		
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<link><LINKUNIVVERSAL>$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]NomedoEpisodio[/B][/COLOR]</link>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<link>NOLINK$$lsname=[COLOR black][B].[/B][/COLOR]</link>
+<link>NOLINK$$lsname=[COLOR orange][B]  QUER ASSISTIR MAIS EPISODIOS?[/B][/COLOR]</link>
+<link>NOLINK$$lsname=[COLOR orange][B]SOLICITE AO SUPORTE NO GRUPO DO WHATS.[/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/original/gPnKC5rIssN1VMRxXalPXRBZL7.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/7Cvv4KdtI00xNti4Dm4RVJDL9qU.jpg</fanart>
+<info>O dia a dia, os relacionamentos e o exaustivo trabalho de um grupo muito unido de bombeiros de Seattle.</info>
+<genre>AÇÃO</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR black].[/COLOR]</title>
+<link>ignoreme</link>
+<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
+<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+	
+<item>
+<title>[COLOR orange][B]QUER ASSISTIR OUTRA TEMPORADA ?
+SOLICITE AO SUPORTE NO WHATS.[/B][/COLOR]</title>
+<link>ignoreme</link>
+<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
+<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
