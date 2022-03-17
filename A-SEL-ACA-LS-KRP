@@ -1,7 +1,7 @@
 <channels>
 <channel>
-<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/mello506/A1A-ACA-LS-KRP/main/A-SEL-ACA-LS-KRP</externallink>
+<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO-GU [/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/A1A-ACA-LS-KRP/main/A-SEL-ACA-LS-KRP</externallink>
 <thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
 <fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
 <info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
@@ -12,7 +12,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]FILMES DE AÇÃO[/B][/COLOR]</name>
+<name>[COLOR white][B]FILMES DE AÇÃO-GU [/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/A1A-ACA-LS-KRP/main/A1-FLM-ACA-LS-KRP</externallink>
 <thumbnail>https://i.ibb.co/Rv36MLP/ACA-FLM-ICON.png</thumbnail>
 <fanart>https://i.ibb.co/wSSV5t8/ASAO-FAN.png</fanart>
@@ -26,7 +26,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]COLEÇÕES DE FILMES DE AÇÃO[/B][/COLOR]</name>
+<name>[COLOR white][B]COLEÇÕES DE FILMES DE AÇÃO-GU [/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/A1A-ACA-LS-KRP/main/B-COL-ACA-LS-KRP</externallink>
 <thumbnail>https://i.ibb.co/XZ2Srpc/ACA-COL-ICON.png</thumbnail>
 <fanart>https://i.ibb.co/wSSV5t8/ASAO-FAN.png</fanart>
@@ -37,8 +37,9 @@ SOLICITE AO SUPORTE NO GRUPO DO WHATS.</info>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-
-<name>[COLOR white][B]SÉRIES DE AÇÃO[/B][/COLOR]</name>
+<channels>
+<channel>
+<name>[COLOR white][B]SÉRIES DE AÇÃO-GU [/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/A1A-ACA-LS-KRP/main/C-SRS-ACA-LS-KRP</externallink>
 <thumbnail>https://i.ibb.co/9sSR5QY/ACA-SRS-ICON.png</thumbnail>
 <fanart>https://i.ibb.co/wSSV5t8/ASAO-FAN.png</fanart>
