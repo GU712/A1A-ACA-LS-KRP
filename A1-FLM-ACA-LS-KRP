@@ -1,6 +1,6 @@
 <item>
 <title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO-GU [/B][/COLOR]</title>
-<link>https://raw.githubusercontent.com/mello506/1.1-FLM-NEWADD/main/A1C-FLM-ASAO-KRP</link>	
+<link>https://raw.githubusercontent.com/GU712/A1A-ACA-LS-KRP/main/A1-FLM-ACA-LS-KRP</link>	
 <thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
 <fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
 <info>[B]FAÇA SUA ESCOLHA E DIVIRTA-SE[/B]</info>
@@ -333,23 +333,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 
 
-<item>
-<title>[COLOR white][B]NomedoFilme (DATA)[/B][/COLOR]</title>
-
-<link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER>$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]NomedoFilme[/B][/COLOR]</link>
-
-<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNTREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - HD DUAL[/B][/COLOR]</link>
-
-<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUAL[/B][/COLOR]</link>
-
-<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUB[/B][/COLOR]</link>
-
-<thumbnail><ICONEDOFILME></thumbnail>
-<fanart><FUNDODOFILME></fanart>
-<info><SINOPSEDOFILME></info>
-<genre>AÇÃO</genre>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[COLOR black].[/COLOR]</title>
